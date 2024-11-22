@@ -8,7 +8,7 @@ This repository includes the following:
 
 - **`preprocessing_and_training.ipynb`**: Handles data preprocessing and training a CNN model for ASL recognition.
 - **`real_time.ipynb`**: Implements real-time recognition using the trained model and a webcam feed.
-- **sign_language**: The trained model obtained from running the `preprocessing_and_training.ipynb` on a GPU.
+- **`sign_language`**: The trained model obtained from running the `preprocessing_and_training.ipynb` on a GPU.
 
 ## Requirements
 
