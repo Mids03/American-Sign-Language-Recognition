@@ -59,7 +59,7 @@ The `real_time.ipynb` notebook implements real-time ASL recognition. The process
 ## Usage Instructions
 1. **Dataset Setup**: Download the dataset from this [Kaggle link](https://www.kaggle.com/datasets/datamunge/sign-language-mnist ) and place it in the appropriate directory.
 2. **Model Training**:
-Run preprocessing_and_training.ipynb to train the model or use the pre-trained model provided.
+Run `preprocessing_and_training.ipynb` to train the model or use the pre-trained model provided.
 3. **Real-Time Prediction**:
     - Run `real_time.ipynb` and ensure a webcam is connected.
     - Place your hand in the green box and perform gestures for prediction.
